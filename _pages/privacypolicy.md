@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
 ## PIXVIBE APP PRIVACY POLICY
 
 _Last updated: Aug 19, 2023_
